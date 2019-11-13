@@ -17,3 +17,6 @@
 ![](https://github.com/CVNLP/codes-of-our-lab/blob/master/Tian/experiment_result/figure_auc3_1.png)
 #### 图3-2 MDT类模型在INbreast数据集上的AUC
 ![](https://github.com/CVNLP/codes-of-our-lab/blob/master/Tian/experiment_result/figure_auc3_1.png)
+---
+
+## 谢谢观看
