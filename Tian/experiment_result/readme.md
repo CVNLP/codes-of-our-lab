@@ -18,7 +18,7 @@
 #### 图3-3 MDT类模型在CBIS-DDSM数据集上的AUC
 ![](https://github.com/CVNLP/codes-of-our-lab/blob/master/Tian/experiment_result/figure_auc3_1.png)
 #### 图3-4 MDT类模型在INbreast数据集上的AUC
-![](https://github.com/CVNLP/codes-of-our-lab/blob/master/Tian/experiment_result/figure_auc3_1.png)
+![](https://github.com/CVNLP/codes-of-our-lab/blob/master/Tian/experiment_result/figure_auc3_2.png)
 ---
 
 ## 谢谢观看
