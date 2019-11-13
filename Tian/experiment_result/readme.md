@@ -1,0 +1,7 @@
+# **`基于特征分量优选与跨模态病理语义挖掘的乳腺肿块识别`**
+---
+## 本页面是对论文中第二章和第三章AUC实验结果的补充，具体如下
+---
+
+![image](https://github.com/CVNLP/codes-of-our-lab/tree/master/Tian/experiment_result/figure_auc2_1.png)
+
