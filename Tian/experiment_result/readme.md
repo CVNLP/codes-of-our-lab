@@ -9,7 +9,7 @@
 #### 图2-3 MD类模型在CBIS-DDSM数据集上的AUC
 ![](https://github.com/CVNLP/codes-of-our-lab/blob/master/Tian/experiment_result/figure_auc2_3.png)
 #### 图2-4 MD类模型在INbreast数据集上的AUC
-![](https://github.com/CVNLP/codes-of-our-lab/blob/master/Tian/experiment_result/figure_auc2_4.png)
+![](https://github.com/CVNLP/codes-of-our-lab/blob/master/Tian/experiment_result/)
 ---
 ---
 ## 4.2.5 基于领域适配与MD类模型的乳腺肿块识别结果
