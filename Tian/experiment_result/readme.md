@@ -17,6 +17,7 @@
 ### MDT类模型的AUC
 #### 图3-3 MDT类模型在CBIS-DDSM数据集上的AUC
 ![](https://github.com/CVNLP/codes-of-our-lab/blob/master/Tian/experiment_result/figure_auc3_3.png)
+对于包含“S”特征的跨模态语义，从AUC均值的角度衡量，可以看出：从INbreast到CBIS-DDSM是一种“正迁移”。
 #### 图3-4 MDT类模型在INbreast数据集上的AUC
 ![](https://github.com/CVNLP/codes-of-our-lab/blob/master/Tian/experiment_result/figure_auc3_4.png)
 ---
