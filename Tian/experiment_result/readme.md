@@ -5,6 +5,10 @@
 ---
 ## 4.2.4 基于特征分量优选与跨模态病理语义挖掘的乳腺肿块识别结果
 ---
+### 求和融合方式和串接融合方式识别结果
+#### 求和和串接融合方式的AUC值均值和ACC均值
+![](https://github.com/CVNLP/codes-of-our-lab/blob/master/Tian/experiment_result/SUM_concate_AUC_Acc.png)
+---
 ### MD类模型的AUC
 #### 图2-3 MD类模型在CBIS-DDSM数据集上的AUC
 ![](https://github.com/CVNLP/codes-of-our-lab/blob/master/Tian/experiment_result/figure_auc2_3.png)
